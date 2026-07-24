@@ -50,7 +50,7 @@
 
 - 🌐 **Portfolio:** [aditi-dev.vercel.app](https://aditi-dev.vercel.app)
 
-- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/aditi-malviya-a794032f5/)
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/aditi-malviya-a79493325/)
 
 
 
