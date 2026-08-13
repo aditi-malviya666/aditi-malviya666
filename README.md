@@ -62,6 +62,14 @@
 
 
 
+- 📱 **[StudifyApp](https://play.google.com/store/apps/details?id=com.studifysuccess.courses)**
+  
+  - *Tech:* React Native, JavaScript, Cross-Platform (Android & iOS)
+    
+  - Architected and developed cross-platform mobile application features for StudifySuccess to enhance user engagement, UI responsiveness, and smooth navigation.
+
+
+    
 - ⏳ **[Chronos Flow - Personal Columnar Planner](https://chronos-flow-planner.vercel.app/)**
 
   - *Tech:* HTML5, Vanilla CSS3 (Glassmorphism), JavaScript (ES6+), FontAwesome, LocalStorage
